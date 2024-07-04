@@ -37,4 +37,4 @@ The ROC AUC score was used to evaluate the effectiveness of the learned represen
 ### Conclusion
 The results of our analysis demonstrated that even though both the DINO and MAE models show good performance in downstream tasks, their effectiveness in anomaly detection was poor.  Specifically, while the DINO model's representations were generally better than those of the MAE model, the overall results indicated that the learned representations that are beneficial for downstream tasks do not translate well to anomaly detection. The use of GMM for outlier detection and reapplication of K-means clustering did improve the performance to some extent, but the anomaly detection outcomes were still suboptimal.
 
-For a comprehensive overview of all results, including charts and detailed analysis, please refer to the https://drive.google.com/file/d/1SqFLAAPMlqOrHEZmWF8T6iwGB--FKC-C/view?usp=sharing link
+For a comprehensive overview of all results, including charts and detailed analysis, please refer to the (https://drive.google.com/file/d/1SqFLAAPMlqOrHEZmWF8T6iwGB--FKC-C/view?usp=sharing).
